@@ -1,0 +1,25 @@
+.box { 
+  border-radius: 10px; 
+  box-shadow: 3px 3px 10px rgb(52, 48, 48); 
+  padding: 10%; 
+  padding:0 0 25px ;
+   
+} 
+.blue { 
+  background-color: blue; 
+} 
+.container { 
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.489); 
+  margin: 40px; 
+  padding: 25px; 
+
+  display: flex; 
+
+} 
+.sidebor { 
+  flex: 0 0 250px; 
+  padding: 10px;
+} 
+.content { 
+  flex: 1 1 auto; 
+}
